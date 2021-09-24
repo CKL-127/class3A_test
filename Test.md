@@ -34,4 +34,4 @@ I like to eat mango ice cream
 suddenly an extra line
 10
 ## science fiction / double feature
-rocky horror picyure show
+rocky horror picture show
